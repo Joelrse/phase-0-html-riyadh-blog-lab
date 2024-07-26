@@ -26,11 +26,11 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #09dd2c;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
@@ -47,7 +47,7 @@ h3 {
 
 img {
   max-width: 100%;
-  width: 100%;
+  width: 85%;
   height: auto;
 }
 
